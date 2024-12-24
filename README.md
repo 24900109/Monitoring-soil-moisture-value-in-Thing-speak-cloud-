@@ -1,7 +1,7 @@
 ### Name:N.Kiruthika
 ### Reg No:24900109
 
-# EXP-3:MONITORING SOIL MOISTURE VALUE IN THING SPEAK CLOUD
+# EXP-4:MONITORING SOIL MOISTURE VALUE IN THING SPEAK CLOUD
 # Uploading soil moisture sensor data in Thing Speak cloud
 
 # AIM:
